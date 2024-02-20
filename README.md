@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Product preview card component](https://github.com/dayronfurcain/product-preview-card-component)
-- Live Site URL: [Product preview card component](https://your-live-site-url.com)
+- Live Site URL: [Product preview card component](https://darling-brioche-9f8fe3.netlify.app)
 
 ## My process
 
